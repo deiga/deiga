@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [managing a Growth team](https://amboss.com/us)
 
-- 🌱 I’m currently learning ** Elixir, GraphQL**
+- 🌱 I’m currently learning **Elixir, GraphQL**
 
 - 👨‍💻 All of my projects are available at [github.com/deiga](https://github.com/deiga)
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deiga&show_icons=true&locale=en&layout=compact" alt="deiga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deiga&show_icons=true&locale=en" alt="deiga" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/deiga)  
