@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/deiga" target="blank"><img src="https://img.shields.io/twitter/follow/deiga?logo=twitter&style=for-the-badge" alt="deiga" /></a> </p>
 
-- 🔭 I’m currently working on [managing a Growth team](https://amboss.com/us)
+- 🔭 I’m currently working as [a Staff Engineer driving Developer Experience](https://amboss.com/us)
 
 - 🌱 I’m currently learning **Elixir, GraphQL**
 
