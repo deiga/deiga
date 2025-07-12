@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Timo Sand</h1>
 <h3 align="center">A polyglot engineer with a long background in varied projects.</h3>
 
-<p align="left"> <a href="https://twitter.com/deiga" target="blank"><img src="https://img.shields.io/twitter/follow/deiga?logo=twitter&style=for-the-badge" alt="deiga" /></a> </p>
+<p align="left"> <a rel="me" href="https://piipitin.fi/@deiga">Follow me on Mastodon</a> </p>
 
-- 🔭 I’m currently working as [a Staff Engineer driving Developer Experience](https://amboss.com/us)
-
-- 🌱 I’m currently learning **Elixir, GraphQL**
+- 🔭 I’m currently working as [a Lead Platform Engineer driving Developer Experience](https://www.f-secure.com/fi)
 
 - 👨‍💻 All of my projects are available at [github.com/deiga](https://github.com/deiga)
 
-- 💬 Ask me about **Hiring developers, leading a team, IaC and other automation**
+- 💬 Ask me about **Hiring developers, leading a team, team culture, mentoring, IaC, Kubernetes, Terraform, Developer Experience and other automation**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/timosand/](https://www.linkedin.com/in/timosand/)
 
@@ -26,6 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deiga&show_icons=true&locale=en&layout=compact" alt="deiga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deiga&show_icons=true&locale=en" alt="deiga" /></p>
-
-![Metrics](https://metrics.lecoq.io/deiga?template=classic&languages=1&gists=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=1%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FHelsinki)
-
