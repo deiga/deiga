@@ -17,8 +17,7 @@
 <a href="https://linkedin.com/in/timosand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="timosand" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img height=200 align="center" src="./profile/top-langs.svg" />
-  &nbsp;
   <img height=200 align="center" src="./profile/stats.svg" />
-</a>
+</div>
