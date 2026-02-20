@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Timo Sand's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 71, Total PRs: 444, Total Issues: 444, Contributed to (last year): 26</desc>
+        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 71, Total PRs: 444, Total Issues: 445, Contributed to (last year): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.20818816878084;
+        stroke-dashoffset: 92.20818558863262;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >444</text>
+      >445</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
