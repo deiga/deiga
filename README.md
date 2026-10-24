@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://piipitin.fi/@deiga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="deiga" height="30" width="40" /></a>
 <a href="https://dev.to/deiga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="deiga" height="30" width="40" /></a>
-<a href="https://x.com/deiga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="deiga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/timosand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="timosand" height="30" width="40" /></a>
 </p>
 
